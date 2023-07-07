@@ -1,0 +1,8 @@
+2023-07-07 17:49:13,810 - INFO - This is an informational message
+2023-07-07 17:49:13,811 - WARNING - This is a warning message
+2023-07-07 17:49:13,811 - ERROR - This is an error message
+2023-07-07 17:49:13,811 - CRITICAL - This is a critical message
+2023-07-07 17:55:52,138 - ERROR - This is an error message
+2023-07-07 17:55:52,139 - CRITICAL - This is a critical message
+2023-07-07 17:56:21,198 - ERROR - This is an error message
+2023-07-07 17:56:21,198 - CRITICAL - This is a critical message
